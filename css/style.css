@@ -1,0 +1,15 @@
+body {
+	font-size: 18px;
+	text-align: center;
+	background-image: ;
+	background-size: 200%;
+}
+#submit {
+	box-sizing: border-box;
+	border-radius: 0,5em;
+	border: 0;
+	font-size: 1.4em;
+	color: white;
+	padding: 1em;
+	background-color: #f2f2;
+}
