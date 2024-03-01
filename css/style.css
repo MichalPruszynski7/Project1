@@ -2,11 +2,14 @@
 	font-size: 32px;
 	text-align: center;
 	background-image: url(../images/img_0707.jpg);
-	background-size: 150%;
+	background-size: 60%;
   }
   ol {
   	padding: 0;
   	list-style-type: none;
+  }
+  li {
+  	padding-bottom: 1em;
   }
   @media screen and (min-width: 500px) {
    body {
