@@ -3,6 +3,13 @@
 	text-align: center;
 	background-image: url(../images/img_0707.jpg);
 	background-size: 60%;
+	color: white;
+  }
+  name {
+  	color: white;
+  }
+  phone {
+  	color: white;
   }
   ol {
   	padding: 0;
