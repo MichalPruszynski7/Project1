@@ -5,6 +5,6 @@
 	alert("Please dont Be Alarmed This Event is Family Friendly :)");
   }
 
-  tcButton.addEventListener("click", myEvent);
+  tcButton.addEventListener("click", myevent);
   }
   window.addEventListener('load', init)
