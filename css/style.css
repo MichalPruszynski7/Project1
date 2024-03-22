@@ -20,9 +20,7 @@
 
   h1 {
     font-family: 'Bungee', sans-serif;
-    font-size: 75px;
     padding-bottom: 20px;
-    animation: flash 1s infinite alternate;
   }
   form { 
     background-color: #e54ed0;
