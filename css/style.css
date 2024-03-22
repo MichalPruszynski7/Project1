@@ -10,6 +10,10 @@
     padding-block: 50px;
 
   }
+  attentiontext {
+    font-size: 50px;
+    padding-bottom: 20px;
+  }
   form { 
     background-color: #e54ed0;
     border-radius: 10px;
