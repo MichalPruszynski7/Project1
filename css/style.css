@@ -4,6 +4,8 @@
 	text-align: center;
 	background-size: 60%;
 	color: #EE4B2B;
+    display: flex;
+    justify-content: center;
   }
   form { 
     background-color: #FFFFFF;
