@@ -4,15 +4,16 @@
 	text-align: center;
 	background-size: 60%;
 	color: #EE4B2B;
-    display: flex;
     justify-content: center;
+    padding-top: 50px;
+    padding-left: 250px;
+
   }
   form { 
     background-color: #FFFFFF;
     border-radius: 10px;
     width: 100%;
     max-width: 500px;
-    padding-top: 50px;
    }
 
   name {
