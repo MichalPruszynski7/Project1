@@ -49,6 +49,9 @@
     font-size: 20px;
     margin-bottom: 10px;
    }
+   form {
+    width: 60%;
+   }
  }
 
    @media screen and (min-width: 992px) {
@@ -60,6 +63,9 @@
      main {
         width: 75%;
         font-size: 1.15em;
+     }
+     form{
+        width: 80%;
      }
      h1{
         font-size: 20px;
