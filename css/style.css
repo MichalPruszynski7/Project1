@@ -5,6 +5,13 @@
 	background-size: 60%;
 	color: white;
   }
+  form { 
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 250px;
+   }
+
   name {
   	color: white;
   }
