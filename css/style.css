@@ -6,7 +6,7 @@
 	color: ##44008b;
     justify-content: center;
     padding-top: 50px;
-    padding-left: 270px;
+    padding-left: 300px;
     padding-block: 50px;
 
   }
@@ -16,10 +16,12 @@
   font-style: normal;
 }
 
+
   attentiontext {
     font-family: 'Bungee', sans-serif;
-    font-size: 50px;
+    font-size: 75px;
     padding-bottom: 20px;
+    animation: flash 1s infinite alternate;
   }
   form { 
     background-color: #e54ed0;
@@ -80,7 +82,7 @@
      }
 
      #input-submit input[type="submit"] {
-        width: 70%;
+        width: 50%;
         font-size: 1.5em;
         border-radius: 5%;
      }
