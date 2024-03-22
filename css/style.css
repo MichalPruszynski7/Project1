@@ -5,7 +5,7 @@
 	color: #44008b;
     justify-content: center;
     padding-top: 50px;
-    padding-left: 300px;
+    padding-left: 350px;
     width: fit-content;
 
   }
@@ -46,6 +46,7 @@
    	align-content: center;
    	justify-content: center;
     width: 60%;
+    font-size: 15px;
    }
    main {
    	width: 70%;
